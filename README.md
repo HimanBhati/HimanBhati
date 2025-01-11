@@ -1,4 +1,4 @@
-##                                                   Hi there 👋 Himanshu Bhati 
+##                                                   Hi there 👋 I am Himanshu Bhati 
 
 
 🌱 I’m currently learning Python
